@@ -26,5 +26,5 @@ Welcome to my collection of mini projects built using HTML and CSS. This reposit
 	•	HTML5<br>
 	•	CSS3<br>
  <br>
- 📄 License<br>
+ 📄 License<br><br>
 These projects are for educational and portfolio purposes only. Not affiliated with any of the original companies.
